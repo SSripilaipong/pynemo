@@ -1,2 +1,1 @@
-def hello_world():
-    print('PyNeMo')
+from .core import *
