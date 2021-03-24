@@ -13,7 +13,7 @@ except(IOError, ImportError):
 
 
 NAME = 'pynemo'
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 URL = 'https://github.com/SSripilaipong/pynemo'
 PROJECT_URLS = {
     'Documentation': URL,
